@@ -1,0 +1,38 @@
+{
+    "bannerDescuento":[
+        {
+            "imagen":"https://http2.mlstatic.com/D_NQ_NP2X_730142-MLA72650791580_112023-B.webp",
+            "link_imagen":"https://listado.mercadolibre.com.ar/_Container_cyber-monday-electro#DEAL_ID=MLA35895&S=landingHubcyber-monday&V=15&T=Special-withoutLabel&L=ELECTRODOMESTICOS&deal_print_id=fe7063b0-7d78-11ee-97e2-e7ee9c59f900&c_id=special-withoutlabel&c_element_order=1&c_campaign=ELECTRODOMESTICOS&c_uid=fe7063b0-7d78-11ee-97e2-e7ee9c59f900"
+        },
+        {
+            "imagen":"https://http2.mlstatic.com/D_NQ_NP2X_915593-MLA72723418215_112023-B.webp",
+            "link_imagen":"https://www.mercadolibre.com.ar/c/deportes-y-fitness#DEAL_ID=MLA35895&S=landingHubcyber-monday&V=16&T=Special-withoutLabel&L=ZAPATILLAS_DEPORTES&deal_print_id=fe7063b0-7d78-11ee-97e2-e7ee9c59f900&c_id=special-withoutlabel&c_element_order=2&c_campaign=ZAPATILLAS_DEPORTES&c_uid=fe7063b0-7d78-11ee-97e2-e7ee9c59f900"
+        },
+        {
+            "imagen":"https://http2.mlstatic.com/D_NQ_NP2X_695259-MLA72723370217_112023-B.webp",
+            "link_imagen":"https://listado.mercadolibre.com.ar/_Container_cyber-monday-celulares#DEAL_ID=MLA35895&S=landingHubcyber-monday&V=17&T=Special-withoutLabel&L=CELULARES&deal_print_id=fe7063b0-7d78-11ee-97e2-e7ee9c59f900&c_id=special-withoutlabel&c_element_order=3&c_campaign=CELULARES&c_uid=fe7063b0-7d78-11ee-97e2-e7ee9c59f900"
+        },
+        {
+            "imagen":"https://http2.mlstatic.com/D_NQ_NP2X_787014-MLA72592559130_112023-B.webp",
+            "link_imagen":"https://listado.mercadolibre.com.ar/_Container_cyber-monday-tvaudio#DEAL_ID=MLA35895&S=landingHubcyber-monday&V=18&T=Special-withoutLabel&L=TV_AUDIO&deal_print_id=fe7063b0-7d78-11ee-97e2-e7ee9c59f900&c_id=special-withoutlabel&c_element_order=4&c_campaign=TV_AUDIO&c_uid=fe7063b0-7d78-11ee-97e2-e7ee9c59f900"
+        },
+        {
+            "imagen":"https://http2.mlstatic.com/D_NQ_NP2X_972549-MLA72723487265_112023-B.webp",
+            "link_imagen":"https://listado.mercadolibre.com.ar/_Container_cyber-monday-hogar#DEAL_ID=MLA35895&S=landingHubcyber-monday&V=19&T=Special-withoutLabel&L=HOGAR_MUEBLES_DECO&deal_print_id=fe7063b0-7d78-11ee-97e2-e7ee9c59f900&c_id=special-withoutlabel&c_element_order=5&c_campaign=HOGAR_MUEBLES_DECO&c_uid=fe7063b0-7d78-11ee-97e2-e7ee9c59f900"
+        },
+        {
+            "imagen":"https://http2.mlstatic.com/D_NQ_NP2X_669684-MLA72650793092_112023-B.webp",
+            "link_imagen":"https://listado.mercadolibre.com.ar/_Container_cyber-monday-computacion#DEAL_ID=MLA35895&S=landingHubcyber-monday&V=20&T=Special-withoutLabel&L=COMPUTACION&deal_print_id=fe7063b0-7d78-11ee-97e2-e7ee9c59f900&c_id=special-withoutlabel&c_element_order=6&c_campaign=COMPUTACION&c_uid=fe7063b0-7d78-11ee-97e2-e7ee9c59f900"
+        },
+        {
+            "imagen":"https://http2.mlstatic.com/D_NQ_NP2X_615798-MLA72723420109_112023-B.webp",
+            "link_imagen":"https://listado.mercadolibre.com.ar/_Container_cyber-monday-herramientas#DEAL_ID=MLA35895&S=landingHubcyber-monday&V=21&T=Special-withoutLabel&L=HERRAMIENTAS&deal_print_id=fe7063b0-7d78-11ee-97e2-e7ee9c59f900&c_id=special-withoutlabel&c_element_order=7&c_campaign=HERRAMIENTAS&c_uid=fe7063b0-7d78-11ee-97e2-e7ee9c59f900"
+        },
+        {
+            "imagen":"https://http2.mlstatic.com/D_NQ_NP2X_950908-MLA72723420363_112023-B.webp",
+            "link_imagen":"https://listado.mercadolibre.com.ar/_Container_cyber-monday-belleza#DEAL_ID=MLA35895&S=landingHubcyber-monday&V=22&T=Special-withoutLabel&L=BELLEZA&deal_print_id=fe7063b0-7d78-11ee-97e2-e7ee9c59f900&c_id=special-withoutlabel&c_element_order=8&c_campaign=BELLEZA&c_uid=fe7063b0-7d78-11ee-97e2-e7ee9c59f900"
+        }
+        
+
+    ]
+}
